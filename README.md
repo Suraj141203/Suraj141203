@@ -1,6 +1,5 @@
 # 💫 About Me:
-<br>
-- 👋 I am Suraj Yadav, a passionate Full Stack Software Engineer<br>
+<br>- 👋 I am Suraj Yadav, a passionate Full Stack Software Engineer<br>
 - 🎓 BCA Graduate (2024) from DAVV University, Indore<br>
 - 💼 2+ years of hands-on experience in the IT industry<br>
 - 🔥 Strong expertise in Java Frameworks, Angular & Python<br>
