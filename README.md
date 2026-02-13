@@ -1,6 +1,13 @@
 # 💫 About Me:
-### 💫 About Me:<br>- 🎓 BCA 2nd Year Student<br>- 💻 Currently Learning: Python & AI<br>- 🔥 Building: Web & Full Stack Projects<br>- 🎯 Dream: Become a Software Engineer & Skydive in Dubai Desert 🪂<br>- 📚 Exploring: Machine Learning & Backend Development
-
+### 💫 About Me:<br>
+- 👋 I am Suraj Yadav, a passionate Full Stack Software Engineer<br>
+- 🎓 BCA Graduate (2024) from DAVV University, Indore<br>
+- 💼 2+ years of hands-on experience in the IT industry<br>
+- 🔥 Strong expertise in Java Frameworks, Angular & Python<br>
+- ⚙️ Experienced in building scalable applications using Maven & Jenkins<br>
+- ☁️ Skilled in deploying and managing applications on AWS EC2<br>
+- 🤖 Currently advancing my knowledge in Artificial Intelligence & Machine Learning<br>
+- 🚀 Focused on writing clean, efficient code and engineering intelligent systems
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Suraj_yadav.2003) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suraj-yadav-60b04b297) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:surajyadav141203@gmail.com) 
