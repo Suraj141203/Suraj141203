@@ -34,7 +34,7 @@
 ✔ Database & SQL Proficiency  
 ✔ Python Programming Fundamentals  
 ✔ Problem Solving using Python
-✔ Basic Algorithmic Thinking   
+
 
 # 🏆 Certifications
 
