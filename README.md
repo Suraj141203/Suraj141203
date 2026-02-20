@@ -40,9 +40,9 @@
 
 [![IBM](https://img.shields.io/badge/IBM-Data_Fundamentals-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/58117276-6656-4614-bb5b-f3996c25a042/public_url)
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-SQL_Basic-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/fd0832de9ccb)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Python_Basic-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/fd0832de9ccb)
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-Python_Basic-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/f3a75b7baeed)
+[![HackerRank](https://img.shields.io/badge/HackerRank-SQL_Basic-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/f3a75b7baeed)
 
 [![JPMorgan](https://img.shields.io/badge/JPMorgan-Software_Engineering_Simulation-005EB8?style=for-the-badge)](https://www.theforage.com/completion-certificates/Sj7temL583QAYpHXD/E6McHJDKsQYh79moz_Sj7temL583QAYpHXD_6973af464414d52c3e5bd70d_1769619770765_completion_certificate.pdf)
 
