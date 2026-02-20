@@ -38,15 +38,15 @@
 
 # 🏆 Certifications
 
-[![IBM](https://img.shields.io/badge/IBM-Data_Fundamentals-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/58117276-6656-4614-bb5b-f3996c25a042)
+[![IBM](https://img.shields.io/badge/IBM-Data_Fundamentals-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/58117276-6656-4614-bb5b-f3996c25a042/public_url)
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-SQL_Basic-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
+[![HackerRank](https://img.shields.io/badge/HackerRank-SQL_Basic-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/fd0832de9ccb)
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-Python_Basic-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Python_Basic-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/f3a75b7baeed)
 
-[![JPMorgan](https://img.shields.io/badge/JPMorgan-Software_Engineering_Simulation-005EB8?style=for-the-badge)](#)
+[![JPMorgan](https://img.shields.io/badge/JPMorgan-Software_Engineering_Simulation-005EB8?style=for-the-badge)](https://www.theforage.com/completion-certificates/Sj7temL583QAYpHXD/E6McHJDKsQYh79moz_Sj7temL583QAYpHXD_6973af464414d52c3e5bd70d_1769619770765_completion_certificate.pdf)
 
-[![AI](https://img.shields.io/badge/AI_Tools-Workshop-000000?style=for-the-badge)](#)
+[![AI](https://img.shields.io/badge/AI_Tools-Workshop-000000?style=for-the-badge)](https://certx.in/certificate/0270772f-3809-4400-b29b-1e1c61cd0997996231)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=suraj141203&theme=merko&hide_border=true&include_all_commits=false&count_private=false)<br/>
