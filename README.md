@@ -23,7 +23,7 @@
 - 📊 **Data Fundamentals** – IBM SkillsBuild (Jan 2026)
 - 💼 **Software Engineering Job Simulation** – JPMorgan (Forage) (Jan 2026)
 - 🗄️ **SQL (Basic)** – HackerRank (Jan 2026)
-
+- 🐍 **Python (Basic)** – HackerRank (Feb 2026)
 ---
 
 ## 🔥 Certification Highlights
@@ -32,12 +32,17 @@
 ✔ Data Fundamentals & Analytics  
 ✔ Backend Development Simulation  
 ✔ Database & SQL Proficiency  
+✔ Python Programming Fundamentals  
+✔ Problem Solving using Python
+✔ Basic Algorithmic Thinking   
 
 # 🏆 Certifications
 
 [![IBM](https://img.shields.io/badge/IBM-Data_Fundamentals-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/58117276-6656-4614-bb5b-f3996c25a042)
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-SQL_Basic-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-Python_Basic-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
 
 [![JPMorgan](https://img.shields.io/badge/JPMorgan-Software_Engineering_Simulation-005EB8?style=for-the-badge)](#)
 
